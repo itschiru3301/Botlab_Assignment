@@ -12,7 +12,7 @@ The pipeline combines a small YOLO detector, selective tiled inference for tiny 
 - Constant-acceleration Kalman filtering for drone motion dynamics
 - Sparse Lucas-Kanade camera motion compensation with RANSAC
 - Output videos with bounding boxes, track IDs, and short trajectory tails
-- FPS logging and MOT metrics with `motmetrics`
+- FPS logging and MOT metrics with `motmetrics` 
 
 ## Results
 
