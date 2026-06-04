@@ -1,0 +1,8 @@
+[project]
+name = "aerial-guardian"
+version = "1.0.0"
+description = "Lightweight drone person detection and multi-object tracking for VisDrone."
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["aerial_guardian*"]

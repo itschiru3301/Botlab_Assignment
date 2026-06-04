@@ -1,0 +1,8 @@
+dataset_root: /data/b23_chiranjeevi/Botlab/VisDrone2019-MOT-val
+device: 0
+imgsz: 960
+conf: 0.25
+epochs: 3
+batch: 8
+base_model: yolov8s.pt
+output_root: outputs

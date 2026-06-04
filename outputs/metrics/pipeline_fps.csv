@@ -1,0 +1,2 @@
+sequence,frames,avg_fps,avg_ms,sahi_frames,video,tracks
+uav0000086_00000_v,464,14.431816795830024,69.29134523720835,351,outputs/videos/uav0000086_00000_v.mp4,outputs/tracks/uav0000086_00000_v.txt
